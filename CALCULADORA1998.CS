@@ -10,7 +10,8 @@ namespace CACULADORA1998
     {
         static void Main(string[] args)
         {
-            double num1, num2;
+            double num1; 
+            double num2;
 
             int resul = 0;
 
